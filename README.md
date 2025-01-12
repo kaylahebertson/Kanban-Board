@@ -28,7 +28,7 @@ npm i
 
 ## Usage
 
-Please visit the deployed site:
+Please visit the deployed site: [https://kanban-board-lai3.onrender.com](https://kanban-board-lai3.onrender.com)
 
 ## License
 This project is licensed under the MIT license.
